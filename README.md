@@ -1,4 +1,4 @@
-# wpaudit
+# wpAudit
 Hey there! 🌟 We’ve whipped up a nifty little plugin to give your UnitedOver experience an extra layer of security. Let's dive in!
 
 ## The Issue
