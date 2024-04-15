@@ -1,0 +1,29 @@
+{
+  "digits/digits.php":{
+    "title": "DIGITS: WordPress Mobile Number Signup and Login",
+    "icon": "https://unitedover.com/images/digits/icon128.png",
+    "slug":"digits",
+    "Author":"UnitedOver",
+    "AuthorURI": "https://www.unitedover.com/",
+    "PluginURI": "https://digits.unitedover.com",
+    "support": "support@unitedover.com"
+  },
+  "wpnotif/wpnotif.php":{
+    "title": "WPNotif: WordPress SMS & WhatsApp Notifications",
+    "icon": "https://unitedover.com/images/wpnotif/icon128.png",
+    "slug":"wpnotif",
+    "Author":"UnitedOver",
+    "AuthorURI": "https://www.unitedover.com/",
+    "PluginURI": "https://wpnotif.unitedover.com",
+    "support": "support@unitedover.com"
+  },
+  "wpaudit/wpaudit.php":{
+    "title": "WPAudit",
+    "icon": "https://unitedover.com/images/wpnotif/icon128.png",
+    "slug":"wpaudit",
+    "Author":"UnitedOver",
+    "AuthorURI": "https://www.unitedover.com/",
+    "PluginURI": "https://wpaudit.unitedover.com",
+    "support": "support@unitedover.com"
+  }
+}
