@@ -19,7 +19,7 @@
   },
   "wpaudit/wpaudit.php":{
     "title": "WPAudit",
-    "icon": "https://unitedover.com/images/wpnotif/icon128.png",
+    "icon": "https://unitedover.com/images/wpaudit/logo.svg",
     "slug":"wpaudit",
     "Author":"UnitedOver",
     "AuthorURI": "https://www.unitedover.com/",
