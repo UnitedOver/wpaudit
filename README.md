@@ -1,6 +1,8 @@
 # wpAudit
 Hey there! 🌟 We’ve whipped up a nifty little plugin to give your UnitedOver experience an extra layer of security. Let's dive in!
 
+#### [Download WordPress Plugin Zip](https://github.com/UnitedOver/wpaudit/archive/main.zip "Download Plugin Zip")
+
 ## The Issue
 So, here’s the deal: We did some snooping around and discovered that many folks out there—yes, even savvy site owners—might be unknowingly rocking a not-so-legit version of our plugin. Yikes! 😱
 
