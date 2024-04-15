@@ -20,7 +20,7 @@ Stay safe out there, web warriors! 🛡️
 - Get the wpAudit plugin from the link below.
 - It’s like adopting a digital watchdog. 🐶
 
-**Download Link: [wpaudit.zip](http://# "wpaudit.zip")**
+**Download Link: [wpaudit.zip](http://github.com/UnitedOver/wpaudit/archive/main.zip "wpaudit.zip")**
 
 #### 🚀 Step 2 - Installation
 - Pop over to your WordPress dashboard.
